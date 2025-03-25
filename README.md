@@ -10,7 +10,7 @@ This is a simple C# implementation of the Sieve of Eratosthenes algorithm for fi
 
 ## Requirements
 
-- [.NET 6 SDK](https://dotnet.microsoft.com/download)
+- [.NET 9 SDK](https://dotnet.microsoft.com/download)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - C# Extension for VS Code
 
